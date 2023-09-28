@@ -1,6 +1,6 @@
 package com.newgen.db.commons;
 
-
+//This is the common functions helper code file
 public class WCUtilityHelper {
 	public static String parentFolderIndex;
 	public static String cabinetName;
